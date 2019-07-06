@@ -25,7 +25,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
 	<modules>
-		<module>weixin</module>
+		<module>kemao_3</module>
 		<module>subscribe</module>
 		<module>commons</module>
 		<module>unsubscribe</module>
