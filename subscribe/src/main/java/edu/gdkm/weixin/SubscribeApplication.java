@@ -89,7 +89,7 @@ public class SubscribeApplication implements //
 		RedisMessageListenerContainer c = new RedisMessageListenerContainer();
 		c.setConnectionFactory(connectionFactory);
 		// 监听指定通道的消息
-		Topic topic = new ChannelTopic("kemao_2_event");
+		Topic topic = new ChannelTopic("kemao_3_event");
 		// 监听所有kemao_2_开头的通道里面的消息
 //		Topic topic = new PatternTopic("kemao_2_*");
 		// 添加消息的监听器
