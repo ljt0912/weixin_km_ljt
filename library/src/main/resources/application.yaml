@@ -16,5 +16,5 @@ spring:
       # 多人共享一个服务器的时候，每个人协商好各自使用哪个数据库。
       database: 6
       
-server.port: 8152
+server.port: 8154
  
