@@ -101,7 +101,7 @@
 					<executable>true</executable>
 					<fork>true</fork>
 					<!-- 指定MBean端口，默认9001，每个程序使用一个端口号 -->
-					<jmxPort>15154</jmxPort>
+					<jmxPort>9154</jmxPort>
 				</configuration>
 			</plugin>
 		</plugins>
