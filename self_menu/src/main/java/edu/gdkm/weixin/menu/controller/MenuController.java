@@ -13,7 +13,7 @@ import edu.gdkm.weixin.menu.domain.SelfMenu;
 import edu.gdkm.weixin.menu.service.SelfMenuService;
 
 @Controller
-@RequestMapping("/self_menu/lwq_self_menu")
+@RequestMapping("/self_menu")
 public class MenuController {
 
 	@Autowired
