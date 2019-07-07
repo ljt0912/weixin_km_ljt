@@ -15,7 +15,7 @@ mvn  spring-boot:start
 cd ../unsubscribe
 mvn  spring-boot:start
 
-cd ../self-menu
+cd ../self_menu
 mvn spring-boot:start
 
 cd ../library
