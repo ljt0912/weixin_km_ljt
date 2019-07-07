@@ -7,7 +7,7 @@
 		<artifactId>weixin_kemao</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>self-menu</artifactId>
+	<artifactId>self_menu</artifactId>
 
 	<dependencies>
 
